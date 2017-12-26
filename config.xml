@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "id.web.atila.damanhuri"
+        version   = "1.3.0">
+
+    <name>Aplikasi Damanhuri</name>
+
+    <description>
+        Aplikasi untuk Rumah Sakit Umum Daerah H. Damanhuri.
+    </description>
+
+    <author href="https://atila.web.id" email="ummi
+@atila.web.id">
+        ATILA Media Permata
+    </author>
+
+    <content src="index.html" />
+    <access origin="*"/>
+
+</widget>
