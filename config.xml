@@ -11,13 +11,13 @@
         Aplikasi untuk Rumah Sakit Umum Daerah H. Damanhuri.
     </description>
 
-    <author href="https://atila.web.id" email="ummi
-@atila.web.id">
+    <author href="https://atila.web.id" email="ummi@atila.web.id">
         ATILA Media Permata
     </author>
 
     <content src="index.html" />
     <access origin="*"/>
+    <plugin name="cordova-plugin-whitelist" version="1" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
         
